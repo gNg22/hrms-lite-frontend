@@ -14,6 +14,10 @@ React frontend for HRMS Lite. Provides a clean UI for managing employees and att
 - CSS
 - Deployed on Vercel
 
+## Deployment
+- **Backend (Render)**: https://hrms-lite-backend-6ej8.onrender.com/api/
+- **Frontend (Vercel)**: https://hrms-lite-frontend-wine.vercel.app
+
 ## Setup
 ```bash
 npm install
